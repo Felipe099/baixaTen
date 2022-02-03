@@ -29,7 +29,13 @@ section {
   
 }
 
+.vieira {
+  width: 150px;
+}
 
+.ismerim {
+  width: 210px;
+}
 
 section li div {
   font-family: Georgia, 'Times New Roman', Times, serif;
